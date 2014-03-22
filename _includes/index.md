@@ -1,6 +1,6 @@
 ## ¿Qué le puedo ofrecer?
 
-Pues en la carta tenemos:
+Pues en la carta tenemos una serie de presentaciones a elegir de primero, de segundo está el CV y los repositorios en salsa de GitHub y de postre un blog personal.
 
 ## Presentaciones
 * [Cómo reciclar equipos y no morir en el intento](http://www.slideshare.net/seravb/cmo-reciclar-equipos-y-no-morir-en-el-intento)
