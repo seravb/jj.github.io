@@ -1,4 +1,4 @@
-# JJ Merelo pages
+# seravb pages
 
 A repo for my GitHub personal page.
 
