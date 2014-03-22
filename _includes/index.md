@@ -1,27 +1,14 @@
-
 ## A page to point to them all
 
-A few of the projects [I have in GitHub](http://github.com/JJ),
+A few of the projects [I have in GitHub](http://github.com/seravb),
 anyways.
 
 ## A few tutorials, most of them in Spanish
 
-* [Introducción a Ruby](http://jj.github.io/ruby-para-impacientes)
-* [Curso de JavaScript](https://github.com/JJ/curso-js)
+* [Introducción a Ruby]
+##* [Introducción a Ruby](http://jj.github.io/ruby-para-impacientes)
+##* [Curso de JavaScript](https://github.com/JJ/curso-js)
 
-## La asignatura que enseño en la [ETSIIT](http://etsiit.ugr.es)
-
-[Infraestructura Virtual](http://jj.github.io/IV/), un poco de
-computación nube.
-
-## My open source novels
-
-* [Manuel the Magnificent Mechanical Man](http://jj.github.io/hoborg),
-  in English
-
-## ObPicture
-
-![JJ Merelo](jj.png)
 
 ## Based on
 
