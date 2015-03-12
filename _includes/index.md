@@ -14,7 +14,7 @@ Pues en la carta tenemos una serie de presentaciones para ver y descargar, de se
 
 ## Si buscas un empleado tenemos
 * [Mi CV en LinkedIn](http://es.linkedin.com/in/serafinvelezbarrera/)
-* [Mi CV en PDF](https://seravb.files.wordpress.com/2013/10/cv-serafc3adnvc3a9lezbarrera.pdf)
+* [Mi CV en PDF](http://wp.me/aTXO0-5E)
 * [Mis repositorios de GitHub](http://github.com/seravb)
 
 
