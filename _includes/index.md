@@ -13,7 +13,7 @@ Pues en la carta tenemos una serie de presentaciones a elegir de primero, de seg
 
 
 ## Si buscas un empleado tenemos
-* [Mi CV en LinkedIn](es.linkedin.com/in/serafinvelezbarrera/)
+* [Mi CV en LinkedIn](http://es.linkedin.com/in/serafinvelezbarrera/)
 * [Mis repositorios de GitHub](http://github.com/seravb)
 
 
