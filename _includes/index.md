@@ -1,6 +1,6 @@
 ## ¿Qué le puedo ofrecer?
 
-Pues en la carta tenemos una serie de presentaciones a elegir de primero, de segundo está el CV y los repositorios en salsa de GitHub y de postre un blog personal.
+Pues en la carta tenemos una serie de presentaciones para ver y descargar, de segundo está el CV y mis repositorios con sabor de GitHub y por último un blog personal.
 
 ## Presentaciones
 * [Cómo reciclar equipos y no morir en el intento](http://www.slideshare.net/seravb/cmo-reciclar-equipos-y-no-morir-en-el-intento)
@@ -14,6 +14,7 @@ Pues en la carta tenemos una serie de presentaciones a elegir de primero, de seg
 
 ## Si buscas un empleado tenemos
 * [Mi CV en LinkedIn](http://es.linkedin.com/in/serafinvelezbarrera/)
+* [Mi CV en PDF](https://seravb.files.wordpress.com/2013/10/cv-serafc3adnvc3a9lezbarrera.pdf)
 * [Mis repositorios de GitHub](http://github.com/seravb)
 
 
